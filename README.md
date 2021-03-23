@@ -16,3 +16,9 @@ Commandine
     # Make openHAB automatically start after booting the Linux host
     sudo systemctl daemon-reload
     sudo systemctl enable openhab.service
+
+
+Login
+
+    pi
+    raspberry
