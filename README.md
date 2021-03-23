@@ -22,3 +22,4 @@ Login
 
     pi
     raspberry
+    termius ssh port 22
