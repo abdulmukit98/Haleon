@@ -1,8 +1,8 @@
 # haleon
 Commandine
 
-    [openHAB] You can start openhab2 manually by executing the command:
-            sudo /bin/systemctl start openhab.service
+    # Start openHAB (background service)
+    sudo /bin/systemctl start openhab.service
 
     # Learn about the current service status
     sudo /bin/systemctl status openhab.service
@@ -22,7 +22,6 @@ Commandine
             sudo /bin/systemctl enable openhab.service
 
 
-sudo /bin/systemctl status openhab.service 
 
 Login
 
